@@ -125,19 +125,17 @@ Or you can simply run the script available in [main.py](https://github.com/wilee
 
 - [x] Release the inference code
 - [x] Release the guidance documents
-- [ ] Release the gradio demo
-- [ ] Release the extensions for Stable Diffusion WebUI
 
 
 ## 📍 Citation 
 ```
-@misc{wang2023decompose,
-      title={Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models}, 
-      author={Luozhou Wang and Guibao Shen and Yijun Li and Ying-cong Chen},
-      year={2023},
-      eprint={2306.14408},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{wang2024text,
+  title={Text-Anchored Score Composition: Tackling Condition Misalignment in Text-to-Image Diffusion Models},
+  author={Wang, Luozhou and Shen, Guibao and Ge, Wenhang and Chen, Guangyong and Li, Yijun and Chen, Yingcong},
+  booktitle={European Conference on Computer Vision},
+  pages={21--37},
+  year={2024},
+  organization={Springer}
 }
 ```
 
